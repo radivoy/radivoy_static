@@ -1,0 +1,1 @@
+# radivoy_static
