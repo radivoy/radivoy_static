@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios para Radivoy	</title>
-	<atom:link href="/es/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://radivoy.github.io/radivoy_static/es/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://radivoy.github.io/radivoy_static</link>
 	<description>UI designer &#38; web developer</description>
 	<lastBuildDate>Fri, 04 Jun 2021 19:33:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
