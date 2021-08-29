@@ -71,7 +71,7 @@
 
 		//FadeOut body when clicking links		
 		
-		$('a').click(function(e) {
+		$('a:not(".contactme")').click(function(e) {
 			e.preventDefault();
 			newLocation = this.href;
 			$('.precover').fadeIn().promise().done(function(){
